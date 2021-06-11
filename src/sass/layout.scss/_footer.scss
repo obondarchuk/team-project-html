@@ -78,9 +78,9 @@
 }
 .footer__socials {
   display: inline-flex;
-  width: 152px;
+  width: 280px;
   padding-bottom: 46px;
-  margin-left: 127px;
+  justify-content: right;
 }
 .footer__socials-item:not(:last-child) {
   margin-right: 28px;
